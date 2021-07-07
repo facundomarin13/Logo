@@ -1,0 +1,71 @@
+/*
+    Colores
+    #4C4C4C (gris)
+    #22AEE1 (celeste)
+    #ED2A79 (fucsia)
+    #642C8F (violeta)
+*/
+body{
+
+    font-family: 'Montserrat', sans-serif
+
+}
+
+.bg-gris{
+
+    background-color: #4C4C4C ;
+}
+
+.bg-celeste{
+
+    background-color: #22AEE1 ;
+}
+
+.bg-fucsia{
+
+    background-color: #ED2A79 ;
+}
+
+.bg-violeta{
+
+    background-color: #642C8F;
+}
+
+.border-bottom-fucsia {
+
+    border-bottom: 8px solid #ED2A79 ;
+
+}
+
+.border-top-fucsia {
+
+    border-bottom: 8px solid #ED2A79 ;
+
+}
+
+.border-bottom-celeste{
+
+    border-bottom: 8px solid #22AEE1;
+
+}
+
+.logo{
+
+    max-width: 150px;
+
+}
+
+.logo-footer{
+
+    max-width: 100px;
+}
+
+.form-control{
+
+    background-color: #4C4C4C;
+    border-radius: 0;
+    border:0;
+    border-bottom: 1px solid #FFF;
+
+
+}
